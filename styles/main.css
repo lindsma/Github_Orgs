@@ -1,5 +1,59 @@
 body {
-  background: #d3d3d3;
-  font-family: verdana; }
+    background: #F7F7F7;
+    font-family: arial;
+}
+
+body header {
+    background: #000034;
+    height: 70px;
+    color: #fff;
+}
+
+body header h1 {
+    margin: 0;
+    padding-left: 30px;
+    padding-top: 15px;
+    font-size: 35px;
+}
+
+body form {
+    background: #d3d3d3;
+    padding: 5px 0 5px 30px;
+}
+
+body form #submit {
+    height: 30px;
+    background: #000034;
+    border-radius: 5px;
+    color: #fff;
+    margin-left: 20px;
+}
+
+.org-detail {
+    width: 60%;
+    background: #E8E8E8;
+    border: 1px solid #D3D3D3;
+    border-radius: 10px;
+    display: flex;
+    margin: 20px auto 0;
+    overflow: hidden;
+}
+
+.org-detail img {
+    width: 75px;
+    margin: 30px;
+    align-self: center;
+}
+
+.org-detail h2 {
+    display: inline;
+    align-self: center;
+    color: #A8A8A8;
+    font-size: 70px;
+    font-weight: 300;
+    margin: 0;
+    text-shadow: 1px 1px 8px #fff;
+}
+
 
 /*# sourceMappingURL=main.css.map */
