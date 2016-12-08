@@ -5,7 +5,7 @@
 ## Week 4
 
 #### Objective:
-Create an interface to view someone's Github organizations.
+Create an interface to view someone's GitHub organizations, utilizing the GitHub API.
 
 #### Iron Yard Homework
 * [Week 1 - Basic Form Design](https://github.com/lindsma/basicFormDesign)
